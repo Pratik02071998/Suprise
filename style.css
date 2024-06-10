@@ -57,7 +57,7 @@
     position: absolute;
     right: 20%;
     bottom: 0;
-    width: 64%;
+    width: 74%;
     height: 105%;
     background: var(--primary);
     text-align: center;
@@ -70,7 +70,7 @@
     font-family:'Times New Roman', Times, serif;
     color: var(--txt-color);
     text-align: center;
-    font-size: 10px;
+    font-size: 8px;
   }
   .heart {
     position: absolute;

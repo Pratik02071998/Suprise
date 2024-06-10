@@ -36,7 +36,7 @@
     position: absolute;
     top: 0;
     z-index: 2;
-    border-top: 150px solid var(--envelope-tab);
+    border-top: 130px solid var(--envelope-tab);
     border-right: 200px solid transparent;
     border-left: 200px solid transparent;
     transform-origin: top;
@@ -48,9 +48,9 @@
     z-index: 2;
     width: 0px;
     height: 0px;
-    border-top: 150px solid transparent;
+    border-top: 130px solid transparent;
     border-right: 200px solid var(--envelope-cover);
-    border-bottom: 150px solid var(--envelope-cover);
+    border-bottom: 130px solid var(--envelope-cover);
     border-left: 200px solid var(--envelope-cover);
   }
   .envelope > .letter {
